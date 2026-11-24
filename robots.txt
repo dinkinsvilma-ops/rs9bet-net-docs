@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dinkinsvilma-ops.github.io/rs9bet-net-docs/sitemap.xml
